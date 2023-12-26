@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R-Asiedua
-- 👀 I’m interested in Software Engineering and UX design
-- 🌱 I’m currently learning Software Engineering
+- 👀 I’m interested in Cloud Engineering
+- 🌱 I’m currently learning Cloud Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...rnaatenkorang@gmail.com
 
